@@ -8,11 +8,6 @@ cause: Network timeout or API rate limiting
 detection_method: Monitoring, manual verification
 leads_to:
   - HS-002
-created: 2025-01-10
-updated: 2025-01-15
-author: Quality Team
-reviewer: Mike Chen
-approver: Lisa Williams
 ---
 
 # Hazard: Document Sync Fails Silently

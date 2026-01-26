@@ -13,11 +13,6 @@ mitigations:
     reduces: sequence_probability
 residual_severity: 3
 residual_probability: 2
-created: 2025-01-10
-updated: 2025-01-15
-author: Quality Team
-reviewer: Emily Zhang
-approver: Lisa Williams
 ---
 
 # Risk Analysis: Compliance Gap Due to Sync Failure

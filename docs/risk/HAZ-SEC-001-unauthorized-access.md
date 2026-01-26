@@ -7,11 +7,6 @@ threat_category: Spoofing
 attack_vector: Session hijacking or credential theft
 leads_to:
   - HS-002
-created: 2025-01-13
-updated: 2025-01-15
-author: Security Team
-reviewer: David Park
-approver: Lisa Williams
 ---
 
 # Hazard: Unauthorized Access to Patient Data

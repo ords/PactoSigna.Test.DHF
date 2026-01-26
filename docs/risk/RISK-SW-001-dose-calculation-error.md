@@ -15,11 +15,6 @@ mitigations:
     reduces: harm_probability
 residual_severity: 4
 residual_probability: 1
-created: 2025-01-10
-updated: 2025-01-15
-author: Quality Team
-reviewer: Sarah Johnson
-approver: Lisa Williams
 ---
 
 # Risk Analysis: Incorrect Dose Due to Calculation Error

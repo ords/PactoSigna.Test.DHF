@@ -6,11 +6,6 @@ status: approved
 probability: 3
 results_in:
   - HARM-001
-created: 2025-01-10
-updated: 2025-01-15
-author: Quality Team
-reviewer: Dr. Maria Santos
-approver: Lisa Williams
 ---
 
 # Hazardous Situation: Healthcare Provider Administers Incorrect Treatment

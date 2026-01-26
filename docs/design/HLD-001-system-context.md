@@ -1,15 +1,9 @@
 ---
 id: HLD-001
 title: High-Level Design - System Context
-version: "1.0"
 status: approved
 links:
   - SDD-001
-created: 2025-01-07
-updated: 2025-01-10
-author: Emily Zhang
-reviewer: Sarah Johnson
-approver: Lisa Williams
 ---
 
 # High-Level Design: System Context

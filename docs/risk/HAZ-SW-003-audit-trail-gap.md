@@ -6,11 +6,6 @@ status: approved
 failure_mode: Events not captured during high load
 cause: Queue overflow under peak usage
 detection_method: Log analysis, compliance audits
-created: 2025-01-12
-updated: 2025-01-15
-author: Quality Team
-reviewer: Emily Zhang
-approver: Lisa Williams
 ---
 
 # Hazard: Audit Trail Has Temporal Gaps

@@ -1,16 +1,10 @@
 ---
 id: SDD-002
 title: Document Sync Engine Design
-version: "1.1"
 status: approved
 links:
   - SRS-002
   - SDD-001
-created: 2025-01-09
-updated: 2025-01-14
-author: Emily Zhang
-reviewer: David Park
-approver: Lisa Williams
 ---
 
 # Document Sync Engine Design

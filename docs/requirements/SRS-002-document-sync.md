@@ -1,15 +1,9 @@
 ---
 id: SRS-002
 title: Document Synchronization Software Requirements
-version: "1.2"
 status: approved
 links:
   - URS-002
-created: 2025-01-06
-updated: 2025-01-14
-author: David Park
-reviewer: Mike Chen
-approver: Lisa Williams
 ---
 
 # Document Synchronization Software Requirements

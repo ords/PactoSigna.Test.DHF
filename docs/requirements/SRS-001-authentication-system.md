@@ -1,15 +1,9 @@
 ---
 id: SRS-001
 title: Authentication System Software Requirements
-version: "1.0"
 status: approved
 links:
   - URS-001
-created: 2025-01-05
-updated: 2025-01-15
-author: David Park
-reviewer: Sarah Johnson
-approver: Lisa Williams
 ---
 
 # Authentication System Software Requirements

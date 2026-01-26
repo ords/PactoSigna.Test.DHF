@@ -1,16 +1,10 @@
 ---
 id: SDD-001
 title: System Architecture Overview
-version: "1.0"
 status: approved
 links:
   - SRS-001
   - SRS-002
-created: 2025-01-08
-updated: 2025-01-15
-author: Emily Zhang
-reviewer: David Park
-approver: Lisa Williams
 ---
 
 # System Architecture Overview

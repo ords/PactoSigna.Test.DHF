@@ -1,16 +1,10 @@
 ---
 id: TC-001
 title: User Registration Test Cases
-version: "1.0"
 status: approved
 links:
   - TP-001
   - SRS-001-01
-created: 2025-01-11
-updated: 2025-01-14
-author: James Wilson
-reviewer: David Park
-approver: Mike Chen
 ---
 
 # User Registration Test Cases

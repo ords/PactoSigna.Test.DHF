@@ -13,11 +13,6 @@ mitigations:
     reduces: sequence_probability
 residual_severity: 5
 residual_probability: 2
-created: 2025-01-14
-updated: 2025-01-15
-author: Quality Team
-reviewer: Pending
-approver: Pending
 ---
 
 # Risk Analysis: Data Integrity Loss During Concurrent Edits

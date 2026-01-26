@@ -1,16 +1,10 @@
 ---
 id: RA-001
 title: Security Risk Analysis
-version: "1.0"
 status: approved
 links:
   - SDD-001
   - SRS-001
-created: 2025-01-08
-updated: 2025-01-13
-author: Security Team
-reviewer: Lisa Williams
-approver: CEO
 ---
 
 # Security Risk Analysis

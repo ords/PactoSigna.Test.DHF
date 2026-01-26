@@ -1,16 +1,10 @@
 ---
 id: TC-002
 title: Document Sync Test Cases
-version: "1.0"
 status: approved
 links:
   - TP-001
   - SRS-002
-created: 2025-01-12
-updated: 2025-01-14
-author: James Wilson
-reviewer: Emily Zhang
-approver: Mike Chen
 ---
 
 # Document Sync Test Cases

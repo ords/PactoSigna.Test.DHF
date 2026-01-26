@@ -7,11 +7,6 @@ use_error: User selects wrong action from similar-looking buttons
 task_context: Signing off on release documents
 leads_to:
   - HS-001
-created: 2025-01-11
-updated: 2025-01-15
-author: Quality Team
-reviewer: Sarah Johnson
-approver: Lisa Williams
 ---
 
 # Hazard: User Interface Causes Confusion During Critical Workflow

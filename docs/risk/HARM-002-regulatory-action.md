@@ -5,11 +5,6 @@ title: Regulatory enforcement action against organization
 status: approved
 severity: 3
 category: business_harm
-created: 2025-01-10
-updated: 2025-01-15
-author: Quality Team
-reviewer: Emily Zhang
-approver: Lisa Williams
 ---
 
 # Harm: Regulatory Enforcement Action Against Organization

@@ -8,11 +8,6 @@ cause: Rounding error in floating point arithmetic
 detection_method: Unit tests, integration tests, clinical review
 leads_to:
   - HS-001
-created: 2025-01-10
-updated: 2025-01-15
-author: Quality Team
-reviewer: Sarah Johnson
-approver: Lisa Williams
 ---
 
 # Hazard: Software Displays Incorrect Medication Dose

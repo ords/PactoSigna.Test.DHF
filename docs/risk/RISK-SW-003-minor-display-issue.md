@@ -10,11 +10,6 @@ inherent_severity: 2
 inherent_probability: 2
 residual_severity: 2
 residual_probability: 2
-created: 2025-01-12
-updated: 2025-01-15
-author: Quality Team
-reviewer: Mike Chen
-approver: Lisa Williams
 ---
 
 # Risk Analysis: Minor Display Formatting Inconsistency

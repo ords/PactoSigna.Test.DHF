@@ -13,11 +13,6 @@ mitigations:
     reduces: harm_probability
 residual_severity: 3
 residual_probability: 2
-created: 2025-01-11
-updated: 2025-01-15
-author: Quality Team
-reviewer: Sarah Johnson
-approver: Lisa Williams
 ---
 
 # Risk Analysis: User Selects Wrong Action Due to UI Confusion

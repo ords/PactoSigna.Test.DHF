@@ -1,16 +1,10 @@
 ---
 id: FMEA-001
 title: Sync Engine FMEA
-version: "1.0"
 status: approved
 links:
   - SDD-002
   - SRS-002
-created: 2025-01-09
-updated: 2025-01-12
-author: Quality Team
-reviewer: Emily Zhang
-approver: Lisa Williams
 ---
 
 # Sync Engine Failure Mode Effects Analysis

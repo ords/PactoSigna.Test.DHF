@@ -6,11 +6,6 @@ status: approved
 probability: 4
 results_in:
   - HARM-002
-created: 2025-01-10
-updated: 2025-01-15
-author: Quality Team
-reviewer: Emily Zhang
-approver: Lisa Williams
 ---
 
 # Hazardous Situation: Organization Operates with Non-Compliant Documentation

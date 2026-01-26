@@ -15,11 +15,6 @@ mitigations:
 residual_severity: 5
 residual_probability: 1
 residual_exploitability: 1
-created: 2025-01-13
-updated: 2025-01-15
-author: Security Team
-reviewer: David Park
-approver: Lisa Williams
 ---
 
 # Risk Analysis: Patient Data Breach via Unauthorized Access

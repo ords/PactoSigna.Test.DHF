@@ -1,14 +1,8 @@
 ---
 id: URS-001
 title: User Authentication Requirements
-version: "2.0"
 status: approved
 links: []
-created: 2025-01-01
-updated: 2025-01-10
-author: Sarah Johnson
-reviewer: Mike Chen
-approver: Lisa Williams
 ---
 
 # User Authentication Requirements

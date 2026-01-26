@@ -1,16 +1,10 @@
 ---
 id: TP-001
 title: Authentication Test Plan
-version: "1.0"
 status: approved
 links:
   - SRS-001
   - URS-001
-created: 2025-01-10
-updated: 2025-01-15
-author: James Wilson
-reviewer: Emily Zhang
-approver: Mike Chen
 ---
 
 # Authentication Test Plan

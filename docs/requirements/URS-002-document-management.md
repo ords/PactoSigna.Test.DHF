@@ -1,14 +1,8 @@
 ---
 id: URS-002
 title: Document Management Requirements
-version: "1.5"
 status: approved
 links: []
-created: 2025-01-02
-updated: 2025-01-12
-author: Sarah Johnson
-reviewer: Mike Chen
-approver: Lisa Williams
 ---
 
 # Document Management Requirements
