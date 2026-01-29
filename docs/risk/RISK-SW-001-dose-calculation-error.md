@@ -3,6 +3,12 @@ type: software_risk
 id: RISK-SW-001
 title: Incorrect dose due to calculation error
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+approvers:
+  - quality
+  - product
 analyzes: HAZ-SW-001
 hazardous_situation: HS-001
 harm: HARM-001

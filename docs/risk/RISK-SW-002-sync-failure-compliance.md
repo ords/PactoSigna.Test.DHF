@@ -3,6 +3,12 @@ type: software_risk
 id: RISK-SW-002
 title: Compliance gap due to sync failure
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+  - quality
+approvers:
+  - product
 analyzes: HAZ-SW-002
 hazardous_situation: HS-002
 harm: HARM-002

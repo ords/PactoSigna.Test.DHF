@@ -2,6 +2,12 @@
 id: SRS-002
 title: Document Synchronization Software Requirements
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+  - quality
+approvers:
+  - product
 links:
   - URS-002
 ---

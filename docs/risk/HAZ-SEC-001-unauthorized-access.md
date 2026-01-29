@@ -3,6 +3,12 @@ type: haz_soe_security
 id: HAZ-SEC-001
 title: Unauthorized access to patient data
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+  - quality
+approvers:
+  - product
 threat_category: Spoofing
 attack_vector: Session hijacking or credential theft
 leads_to:

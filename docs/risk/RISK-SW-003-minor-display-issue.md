@@ -3,6 +3,11 @@ type: software_risk
 id: RISK-SW-003
 title: Minor display formatting inconsistency
 status: approved
+author: rune@ords.io
+reviewers:
+  - product
+approvers:
+  - engineering
 analyzes: HAZ-SW-002
 hazardous_situation: HS-002
 harm: HARM-002

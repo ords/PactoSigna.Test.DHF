@@ -2,6 +2,11 @@
 id: TC-001
 title: User Registration Test Cases
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+approvers:
+  - engineering
 links:
   - TP-001
   - SRS-001-01

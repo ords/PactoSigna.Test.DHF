@@ -3,6 +3,11 @@ type: software_risk
 id: RISK-SW-004
 title: Data integrity loss during concurrent edits
 status: draft
+author: rune@ords.io
+reviewers:
+  - engineering
+approvers:
+  - quality
 analyzes: HAZ-SW-002
 hazardous_situation: HS-002
 harm: HARM-002

@@ -3,6 +3,12 @@ type: hazardous_situation
 id: HS-002
 title: Organization operates with non-compliant documentation
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+  - engineering
+approvers:
+  - product
 probability: 4
 results_in:
   - HARM-002

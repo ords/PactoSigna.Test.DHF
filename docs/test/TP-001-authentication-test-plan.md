@@ -2,6 +2,12 @@
 id: TP-001
 title: Authentication Test Plan
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+  - product
+approvers:
+  - engineering
 links:
   - SRS-001
   - URS-001

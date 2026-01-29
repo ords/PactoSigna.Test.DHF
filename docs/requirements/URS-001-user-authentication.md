@@ -2,6 +2,12 @@
 id: URS-001
 title: User Authentication Requirements
 status: approved
+author: rune@ords.io
+reviewers:
+  - product
+approvers:
+  - quality
+  - engineering
 links: []
 ---
 

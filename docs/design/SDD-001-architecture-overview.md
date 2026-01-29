@@ -2,6 +2,12 @@
 id: SDD-001
 title: System Architecture Overview
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+  - quality
+approvers:
+  - product
 links:
   - SRS-001
   - SRS-002

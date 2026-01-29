@@ -3,6 +3,12 @@ type: security_risk
 id: RISK-SEC-001
 title: Patient data breach via unauthorized access
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+  - quality
+approvers:
+  - product
 analyzes: HAZ-SEC-001
 hazardous_situation: HS-002
 harm: HARM-002

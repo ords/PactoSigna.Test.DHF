@@ -2,6 +2,11 @@
 id: SRS-001
 title: Authentication System Software Requirements
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+approvers:
+  - quality
 links:
   - URS-001
 ---

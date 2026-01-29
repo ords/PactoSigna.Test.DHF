@@ -3,6 +3,12 @@ type: haz_soe_software
 id: HAZ-SW-001
 title: Software displays incorrect medication dose
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+approvers:
+  - engineering
+  - product
 failure_mode: Calculation error in dose algorithm
 cause: Rounding error in floating point arithmetic
 detection_method: Unit tests, integration tests, clinical review

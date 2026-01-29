@@ -3,6 +3,12 @@ type: harm
 id: HARM-002
 title: Regulatory enforcement action against organization
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+  - product
+approvers:
+  - engineering
 severity: 3
 category: business_harm
 ---

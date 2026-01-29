@@ -3,6 +3,11 @@ type: haz_soe_software
 id: HAZ-SW-002
 title: Document sync fails silently
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+approvers:
+  - quality
 failure_mode: Sync process fails without user notification
 cause: Network timeout or API rate limiting
 detection_method: Monitoring, manual verification

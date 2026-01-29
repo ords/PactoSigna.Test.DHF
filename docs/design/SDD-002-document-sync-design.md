@@ -2,6 +2,12 @@
 id: SDD-002
 title: Document Sync Engine Design
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+approvers:
+  - quality
+  - product
 links:
   - SRS-002
   - SDD-001

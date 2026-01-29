@@ -3,6 +3,12 @@ type: harm
 id: HARM-001
 title: Patient injury from incorrect treatment
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+approvers:
+  - product
+  - engineering
 severity: 4
 category: patient_harm
 ---

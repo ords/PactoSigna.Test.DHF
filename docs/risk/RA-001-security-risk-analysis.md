@@ -2,6 +2,13 @@
 id: RA-001
 title: Security Risk Analysis
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+  - engineering
+  - product
+approvers:
+  - quality
 links:
   - SDD-001
   - SRS-001

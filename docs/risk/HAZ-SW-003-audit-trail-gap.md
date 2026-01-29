@@ -3,6 +3,12 @@ type: haz_soe_software
 id: HAZ-SW-003
 title: Audit trail has temporal gaps
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+  - engineering
+approvers:
+  - product
 failure_mode: Events not captured during high load
 cause: Queue overflow under peak usage
 detection_method: Log analysis, compliance audits

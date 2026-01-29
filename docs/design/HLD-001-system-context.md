@@ -2,6 +2,12 @@
 id: HLD-001
 title: High-Level Design - System Context
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+  - product
+approvers:
+  - quality
 links:
   - SDD-001
 ---

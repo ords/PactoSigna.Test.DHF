@@ -2,6 +2,12 @@
 id: TC-002
 title: Document Sync Test Cases
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+  - engineering
+approvers:
+  - product
 links:
   - TP-001
   - SRS-002

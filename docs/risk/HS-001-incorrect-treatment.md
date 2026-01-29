@@ -3,6 +3,11 @@ type: hazardous_situation
 id: HS-001
 title: Healthcare provider administers incorrect treatment
 status: approved
+author: rune@ords.io
+reviewers:
+  - quality
+approvers:
+  - engineering
 probability: 3
 results_in:
   - HARM-001

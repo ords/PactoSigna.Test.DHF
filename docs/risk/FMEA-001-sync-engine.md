@@ -2,6 +2,12 @@
 id: FMEA-001
 title: Sync Engine FMEA
 status: approved
+author: rune@ords.io
+reviewers:
+  - engineering
+  - quality
+approvers:
+  - product
 links:
   - SDD-002
   - SRS-002

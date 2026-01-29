@@ -3,6 +3,11 @@ type: haz_soe_usability
 id: HAZ-US-001
 title: User interface causes confusion during critical workflow
 status: approved
+author: rune@ords.io
+reviewers:
+  - product
+approvers:
+  - quality
 use_error: User selects wrong action from similar-looking buttons
 task_context: Signing off on release documents
 leads_to:

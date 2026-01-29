@@ -3,6 +3,12 @@ type: usability_risk
 id: RISK-US-001
 title: User selects wrong action due to UI confusion
 status: approved
+author: rune@ords.io
+reviewers:
+  - product
+  - quality
+approvers:
+  - engineering
 analyzes: HAZ-US-001
 hazardous_situation: HS-001
 harm: HARM-001

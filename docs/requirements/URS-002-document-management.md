@@ -2,6 +2,12 @@
 id: URS-002
 title: Document Management Requirements
 status: approved
+author: rune@ords.io
+reviewers:
+  - product
+  - quality
+approvers:
+  - engineering
 links: []
 ---
 
